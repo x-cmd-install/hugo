@@ -1,0 +1,64 @@
+about:
+  description: The world’s fastest framework for building websites.
+  license: Apache-2.0
+  homepage: https://gohugo.io
+  head: d462968
+  archived: false
+  latestVersion: v0.165.0
+  collectedAt: 2026-09-04T03:22:38Z
+timeline:
+  created: 2013-07-04
+  lastCommit: 2026-09-03
+  lastRelease: 2026-08-12
+popularity:
+  star: 89689
+  watcher: 1087
+  fork: 8365
+  release: 381
+  contributor: 848
+  pullRequest: 3279
+  issue: 8229
+language:
+  Go: 6097490
+  C: 164984
+  JavaScript: 162399
+  HTML: 52661
+  Makefile: 10688
+  Shell: 4350
+  Dockerfile: 3302
+  Go Template: 1065
+  CSS: 349
+totalLine: 6497288
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 1
+    mergedPR: 43
+    openPR: 13
+    closedIssue: 30
+    openIssue: 6
+    commit: 52
+  last90d:
+    since: 2026-06-06
+    release: 6
+    mergedPR: 111
+    openPR: 20
+    closedIssue: 67
+    openIssue: 15
+    commit: 134
+  last180d:
+    since: 2026-03-08
+    release: 16
+    mergedPR: 264
+    openPR: 24
+    closedIssue: 165
+    openIssue: 30
+    commit: 344
+  last360d:
+    since: 2025-09-09
+    release: 41
+    mergedPR: 529
+    openPR: 26
+    closedIssue: 359
+    openIssue: 54
+    commit: 737
