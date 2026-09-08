@@ -5,18 +5,18 @@ about:
   head: 857120b
   archived: false
   latestVersion: "v0.165.0"
-  collectedAt: 2026-09-08T01:36:33Z
+  collectedAt: 2026-09-08T03:29:45Z
 timeline:
   created: 2013-07-04
   lastCommit: 2026-09-07
   lastRelease: 2026-08-12
 popularity:
-  star: 89738
+  star: 89739
   watcher: 1087
-  fork: 8369
+  fork: 8370
   release: 381
   contributor: 849
-  pullRequest: 6805
+  pullRequest: 6806
   issue: 8232
 language:
   Go: 6108423
@@ -34,7 +34,7 @@ recent:
     since: 2026-08-09
     release: 1
     mergedPR: 50
-    openPR: 9
+    openPR: 10
     closedIssue: 29
     openIssue: 5
     commit: 49
@@ -42,7 +42,7 @@ recent:
     since: 2026-07-10
     release: 1
     mergedPR: 78
-    openPR: 11
+    openPR: 12
     closedIssue: 40
     openIssue: 8
     commit: 91
@@ -50,7 +50,7 @@ recent:
     since: 2026-06-10
     release: 5
     mergedPR: 111
-    openPR: 16
+    openPR: 17
     closedIssue: 68
     openIssue: 14
     commit: 130
@@ -58,7 +58,7 @@ recent:
     since: 2026-03-12
     release: 16
     mergedPR: 273
-    openPR: 20
+    openPR: 21
     closedIssue: 164
     openIssue: 28
     commit: 341
@@ -66,7 +66,7 @@ recent:
     since: 2025-09-13
     release: 41
     mergedPR: 539
-    openPR: 22
+    openPR: 23
     closedIssue: 360
     openIssue: 53
     commit: 746
@@ -74,20 +74,20 @@ recent:
     since: 2024-09-18
     release: 93
     mergedPR: 954
-    openPR: 24
+    openPR: 25
     closedIssue: 809
     openIssue: 86
     commit: 1376
 total:
   release: 381
   mergedPR: 3523
-  openPR: 26
+  openPR: 27
   closedIssue: 8039
   openIssue: 193
   commit: 9936
 ---
 path: /home/runner/.x-repo/github.com/gohugoio/hugo
-collectedAt: 2026-09-08T01:36:45Z
+collectedAt: 2026-09-08T03:29:57Z
 loc:
   Go:
     code: 172305

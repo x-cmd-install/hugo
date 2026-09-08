@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3698,
       "digest": "sha256:f167bf5c6263099ab5a5228245bc645461a0c2b85b0fc08d18eed5ac1f58ec70",
-      "download_count": 31036,
+      "download_count": 32118,
       "created_at": "2026-08-12T14:46:32Z",
       "updated_at": "2026-08-12T14:46:32Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_0.165.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 40818810,
       "digest": "sha256:10ea75335975a13d0e73ac298402179335c55fa4e99d1687452d9cfa70b30d16",
-      "download_count": 682,
+      "download_count": 683,
       "created_at": "2026-08-12T14:46:28Z",
       "updated_at": "2026-08-12T14:46:30Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_0.165.0_darwin-universal.pkg"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 20898002,
       "digest": "sha256:5c3a37a5450b3e386e5b75a87a790fea2d04a796d75e171216c80ef48a32b432",
-      "download_count": 10043,
+      "download_count": 10100,
       "created_at": "2026-08-12T14:46:24Z",
       "updated_at": "2026-08-12T14:46:25Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_0.165.0_Linux-64bit.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 21696158,
       "digest": "sha256:bab5ace3a13aa7137ee4a679c0e647719a415dc60013b7b442dfaf1606844141",
-      "download_count": 1508,
+      "download_count": 1511,
       "created_at": "2026-08-12T14:46:30Z",
       "updated_at": "2026-08-12T14:46:31Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_0.165.0_linux-amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 20898002,
       "digest": "sha256:5c3a37a5450b3e386e5b75a87a790fea2d04a796d75e171216c80ef48a32b432",
-      "download_count": 23792,
+      "download_count": 23889,
       "created_at": "2026-08-12T14:46:24Z",
       "updated_at": "2026-08-12T14:46:25Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_0.165.0_linux-amd64.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 19357355,
       "digest": "sha256:65c9fdd75e82d5f1eaf565f6e9fede6c0ceecaa267798e10c73068986996b77d",
-      "download_count": 1080,
+      "download_count": 1082,
       "created_at": "2026-08-12T14:46:24Z",
       "updated_at": "2026-08-12T14:46:25Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_0.165.0_linux-arm64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 21523673,
       "digest": "sha256:bdd9cc7837a42389067b2d0df7858d5878ceddef21307c2dd27fa10885fbbcf9",
-      "download_count": 2359,
+      "download_count": 2362,
       "created_at": "2026-08-12T14:46:28Z",
       "updated_at": "2026-08-12T14:46:30Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_0.165.0_windows-amd64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 42474795,
       "digest": "sha256:538be8435ded71e561cdc0bc42b9c9822c855b768e7028bc3f7f624b6e2c5185",
-      "download_count": 1076,
+      "download_count": 1079,
       "created_at": "2026-08-12T14:46:28Z",
       "updated_at": "2026-08-12T14:46:30Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_0.165.0_darwin-universal.pkg"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 21690586,
       "digest": "sha256:f43494894cdf4a8630a201d5c828051c77f523cc66bb3938b30806835470ac20",
-      "download_count": 39097,
+      "download_count": 39338,
       "created_at": "2026-08-12T14:46:25Z",
       "updated_at": "2026-08-12T14:46:26Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_0.165.0_Linux-64bit.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 22594736,
       "digest": "sha256:b4fab4477743c0f1fcfe85072a71156d78f97e4724f0d8bb3b1b1ff2f53ce3ac",
-      "download_count": 17093,
+      "download_count": 17209,
       "created_at": "2026-08-12T14:46:31Z",
       "updated_at": "2026-08-12T14:46:32Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_0.165.0_linux-amd64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 21690586,
       "digest": "sha256:f43494894cdf4a8630a201d5c828051c77f523cc66bb3938b30806835470ac20",
-      "download_count": 136462,
+      "download_count": 137969,
       "created_at": "2026-08-12T14:46:25Z",
       "updated_at": "2026-08-12T14:46:26Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_0.165.0_linux-amd64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 20085682,
       "digest": "sha256:f40ebc44dfda3896cecd3ae7ed44f5c44c4b4a30a2b7d976ece6da62da699a58",
-      "download_count": 2040,
+      "download_count": 2045,
       "created_at": "2026-08-12T14:46:27Z",
       "updated_at": "2026-08-12T14:46:28Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_0.165.0_linux-arm64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 22672703,
       "digest": "sha256:c0259eb25d11b7d1ee7cd2f86da84f17323a36a90dee0ac0f7a93b635ec837f9",
-      "download_count": 6022,
+      "download_count": 6045,
       "created_at": "2026-08-12T14:46:30Z",
       "updated_at": "2026-08-12T14:46:31Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_0.165.0_windows-amd64.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 30859472,
       "digest": "sha256:4144125d650f6eb28afe6ff5b67edba611b9b06852d545d5b32aeaa434c0f863",
-      "download_count": 1148,
+      "download_count": 1162,
       "created_at": "2026-08-12T14:46:26Z",
       "updated_at": "2026-08-12T14:46:28Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_withdeploy_0.165.0_Linux-64bit.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 32203608,
       "digest": "sha256:4aa1f8b364e6c824e1831db178ca64fdade128d4c73070aab06f15419e4f1439",
-      "download_count": 1976,
+      "download_count": 1986,
       "created_at": "2026-08-12T14:46:31Z",
       "updated_at": "2026-08-12T14:46:33Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_withdeploy_0.165.0_linux-amd64.deb"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 30859472,
       "digest": "sha256:4144125d650f6eb28afe6ff5b67edba611b9b06852d545d5b32aeaa434c0f863",
-      "download_count": 896,
+      "download_count": 902,
       "created_at": "2026-08-12T14:46:25Z",
       "updated_at": "2026-08-12T14:46:27Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_withdeploy_0.165.0_linux-amd64.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 32179947,
       "digest": "sha256:043744c4b9ec13dd17e0a8fd2ad8a0ba49274bb48987e5e87395a87ee10d0ef1",
-      "download_count": 471,
+      "download_count": 474,
       "created_at": "2026-08-12T14:46:30Z",
       "updated_at": "2026-08-12T14:46:31Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_withdeploy_0.165.0_windows-amd64.zip"
