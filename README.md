@@ -4,10 +4,10 @@ The world’s fastest framework for building websites.
 
 - **Upstream**: <https://github.com/gohugoio/hugo>
 - **Homepage**: <https://gohugo.io>
-- **Latest release**: `v0.165.0` (2026-08-12)
-- **Last commit**: 2026-09-08
+- **Latest release**: `v0.166.0` (2026-09-09)
+- **Last commit**: 2026-09-09
 - **License**: Apache-2.0
-- **Stars**: 89755 · **Forks**: 8371 · **Open issues**: 8232 · **Contributors**: 850
+- **Stars**: 89759 · **Forks**: 8369 · **Open issues**: 8232 · **Contributors**: 850
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/hugo> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T03:09:21Z._
+_Last regenerated: 2026-09-09T18:25:54Z._
