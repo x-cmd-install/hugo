@@ -2,26 +2,26 @@ about:
   description: "The world’s fastest framework for building websites."
   license: Apache-2.0
   homepage: https://gohugo.io
-  head: f425ff6
+  head: 881c0ec
   archived: false
   latestVersion: "v0.166.0"
   latestRelease: "v0.166.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T03:08:51Z
+  collectedAt: 2026-09-10T16:01:41Z
 timeline:
   created: 2013-07-04
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 2026-09-09
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 89763
+  star: 89776
   watcher: 1087
-  fork: 8365
+  fork: 8366
   release: 382
   contributor: 850
-  pullRequest: 6816
-  issue: 8233
+  pullRequest: 6817
+  issue: 8236
 language:
   Go: 6117738
   C: 164984
@@ -39,59 +39,59 @@ recent:
     release: 2
     mergedPR: 54
     openPR: 9
-    closedIssue: 28
-    openIssue: 6
-    commit: 59
+    closedIssue: 29
+    openIssue: 8
+    commit: 60
   last60d:
     since: 2026-07-12
     release: 2
     mergedPR: 85
     openPR: 11
-    closedIssue: 39
-    openIssue: 9
-    commit: 101
+    closedIssue: 40
+    openIssue: 11
+    commit: 102
   last90d:
     since: 2026-06-12
     release: 5
     mergedPR: 117
     openPR: 16
-    closedIssue: 64
-    openIssue: 15
-    commit: 140
+    closedIssue: 65
+    openIssue: 17
+    commit: 141
   last180d:
     since: 2026-03-14
     release: 17
     mergedPR: 276
     openPR: 19
-    closedIssue: 161
-    openIssue: 28
-    commit: 351
+    closedIssue: 162
+    openIssue: 30
+    commit: 352
   last360d:
     since: 2025-09-15
     release: 42
     mergedPR: 545
     openPR: 22
-    closedIssue: 360
-    openIssue: 54
-    commit: 756
+    closedIssue: 361
+    openIssue: 56
+    commit: 757
   last720d:
     since: 2024-09-20
     release: 93
     mergedPR: 956
     openPR: 24
-    closedIssue: 806
-    openIssue: 87
-    commit: 1380
+    closedIssue: 807
+    openIssue: 89
+    commit: 1381
 total:
   release: 382
   mergedPR: 3531
   openPR: 26
-  closedIssue: 8039
-  openIssue: 194
-  commit: 9946
+  closedIssue: 8040
+  openIssue: 196
+  commit: 9947
 ---
 path: /home/runner/.x-repo/github.com/gohugoio/hugo
-collectedAt: 2026-09-10T03:09:01Z
+collectedAt: 2026-09-10T16:01:54Z
 loc:
   Go:
     code: 172525
