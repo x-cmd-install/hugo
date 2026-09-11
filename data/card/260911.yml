@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.166.0"
   latestRelease: "v0.166.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:21:08Z
+  collectedAt: 2026-09-11T03:04:16Z
 timeline:
   created: 2013-07-04
   lastCommit: 2026-09-10
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 89779
   watcher: 1087
-  fork: 8368
+  fork: 8369
   release: 382
   contributor: 850
   pullRequest: 6819
@@ -91,7 +91,7 @@ total:
   commit: 9947
 ---
 path: /home/runner/.x-repo/github.com/gohugoio/hugo
-collectedAt: 2026-09-11T00:21:18Z
+collectedAt: 2026-09-11T03:04:24Z
 loc:
   Go:
     code: 172525
