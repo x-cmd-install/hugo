@@ -12,6 +12,28 @@ The world’s fastest framework for building websites.
 x install hugo
 ```
 
+## 代码洞察
+
+合计: **193,402** 行代码（覆盖前 5 种语言、共 **1066** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Go | 172,525 | 26,154 | 31,116 | 908 |
+| Yaml | 5,732 | 30 | 43 | 6 |
+| Html | 4,690 | 0 | 355 | 124 |
+| JavaScript | 4,111 | 368 | 346 | 25 |
+| C | 3,640 | 160 | 430 | 3 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **5.8 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (3/10) — Found 5/16 approved changesets -- score normalized to 3
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/gohugoio/hugo>
@@ -23,6 +45,25 @@ x install hugo
 - **最新版本**: `v0.166.0` (2026-09-09)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 36 个
+
+## 流行度
+
+- **Star**: 89,779 · **Fork**: 8,368 · **开放 issue**: 8,237 · **贡献者**: 850
+
+## 累计统计
+
+- **发布数**: 382 · **已合并 PR**: 3531 · **开放 PR**: 28 · **已关闭 issue**: 8041 · **开放 issue**: 196 · **提交数**: 9947
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 2 | 52 | 11 | 29 | 8 | 60 |
+| last60d | 2026-07-13 | 2 | 85 | 13 | 41 | 11 | 102 |
+| 90d | 2026-06-13 | 5 | 117 | 18 | 65 | 15 | 141 |
+| last180d | 2026-03-15 | 17 | 273 | 21 | 160 | 30 | 352 |
+| 360d | 2025-09-16 | 42 | 545 | 24 | 362 | 56 | 757 |
+| last720d | 2024-09-21 | 93 | 955 | 26 | 808 | 89 | 1381 |
 
 ## Release 资产
 
@@ -65,44 +106,6 @@ x install hugo
 | [hugo_withdeploy_0.166.0_linux-arm64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.166.0/hugo_withdeploy_0.166.0_linux-arm64.tar.gz) | 26.1 MiB | `native/linux/arm64` |
 | [hugo_withdeploy_0.166.0_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.166.0/hugo_withdeploy_0.166.0_windows-amd64.zip) | 30.3 MiB | `native/win/x64` |
 
-## 流行度
-
-- **Star**: 89,776 · **Fork**: 8,366 · **开放 issue**: 8,236 · **贡献者**: 850
-
-## 累计统计
-
-- **发布数**: 382 · **已合并 PR**: 3531 · **开放 PR**: 26 · **已关闭 issue**: 8040 · **开放 issue**: 196 · **提交数**: 9947
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 2 | 54 | 9 | 29 | 8 | 60 |
-| 90d | 2026-06-12 | 5 | 117 | 16 | 65 | 17 | 141 |
-| 360d | 2025-09-15 | 42 | 545 | 22 | 361 | 56 | 757 |
-
-## 代码规模
-
-合计: **193,402** 行代码（覆盖前 5 种语言、共 **1066** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Go | 172,525 | 26,154 | 31,116 | 908 |
-| Yaml | 5,732 | 30 | 43 | 6 |
-| Html | 4,690 | 0 | 355 | 124 |
-| JavaScript | 4,111 | 368 | 346 | 25 |
-| C | 3,640 | 160 | 430 | 3 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **5.8 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (3/10) — Found 5/16 approved changesets -- score normalized to 3
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## 改进这些数据
 
 hugo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `hugo` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -112,4 +115,4 @@ hugo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:02:02Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:21:29Z._
