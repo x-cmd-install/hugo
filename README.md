@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 89,779 · **Forks**: 8,368 · **Open issues**: 8,237 · **Contributors**: 850
+- **Stars**: 89,779 · **Forks**: 8,369 · **Open issues**: 8,237 · **Contributors**: 850
 
 ## Totals (cumulative)
 
@@ -115,4 +115,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:21:28Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T03:04:30Z._
