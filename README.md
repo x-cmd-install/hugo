@@ -30,7 +30,7 @@ Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 5/16 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 7/18 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 89,816 · **Forks**: 8,376 · **Open issues**: 8,241 · **Contributors**: 850
+- **Stars**: 89,821 · **Forks**: 8,379 · **Open issues**: 8,244 · **Contributors**: 850
 
 ## Totals (cumulative)
 
-- **Releases**: 382 · **Merged PRs**: 3533 · **Open PRs**: 29 · **Closed issues**: 8044 · **Open issues**: 197 · **Commits**: 9949
+- **Releases**: 382 · **Merged PRs**: 3533 · **Open PRs**: 37 · **Closed issues**: 8047 · **Open issues**: 197 · **Commits**: 9949
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 51 | 9 | 28 | 9 | 51 |
-| last60d | 2026-07-16 | 2 | 87 | 13 | 42 | 12 | 104 |
-| 90d | 2026-06-16 | 4 | 116 | 18 | 61 | 16 | 133 |
-| last180d | 2026-03-18 | 16 | 266 | 22 | 162 | 31 | 334 |
-| 360d | 2025-09-19 | 42 | 545 | 25 | 360 | 57 | 756 |
-| last720d | 2024-09-24 | 93 | 956 | 27 | 810 | 89 | 1381 |
+| 30d | 2026-08-16 | 1 | 50 | 17 | 29 | 8 | 51 |
+| last60d | 2026-07-17 | 2 | 87 | 20 | 44 | 12 | 104 |
+| 90d | 2026-06-17 | 4 | 115 | 25 | 62 | 17 | 133 |
+| last180d | 2026-03-19 | 16 | 264 | 30 | 163 | 32 | 334 |
+| 360d | 2025-09-20 | 42 | 544 | 33 | 362 | 58 | 756 |
+| last720d | 2024-09-25 | 93 | 956 | 35 | 811 | 90 | 1381 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T03:27:12Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T03:28:32Z._

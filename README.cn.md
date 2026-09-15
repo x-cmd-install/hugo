@@ -30,7 +30,7 @@ x install hugo
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 5/16 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 7/18 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ x install hugo
 
 ## 流行度
 
-- **Star**: 89,816 · **Fork**: 8,376 · **开放 issue**: 8,241 · **贡献者**: 850
+- **Star**: 89,821 · **Fork**: 8,379 · **开放 issue**: 8,244 · **贡献者**: 850
 
 ## 累计统计
 
-- **发布数**: 382 · **已合并 PR**: 3533 · **开放 PR**: 29 · **已关闭 issue**: 8044 · **开放 issue**: 197 · **提交数**: 9949
+- **发布数**: 382 · **已合并 PR**: 3533 · **开放 PR**: 37 · **已关闭 issue**: 8047 · **开放 issue**: 197 · **提交数**: 9949
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 51 | 9 | 28 | 9 | 51 |
-| last60d | 2026-07-16 | 2 | 87 | 13 | 42 | 12 | 104 |
-| 90d | 2026-06-16 | 4 | 116 | 18 | 61 | 16 | 133 |
-| last180d | 2026-03-18 | 16 | 266 | 22 | 162 | 31 | 334 |
-| 360d | 2025-09-19 | 42 | 545 | 25 | 360 | 57 | 756 |
-| last720d | 2024-09-24 | 93 | 956 | 27 | 810 | 89 | 1381 |
+| 30d | 2026-08-16 | 1 | 50 | 17 | 29 | 8 | 51 |
+| last60d | 2026-07-17 | 2 | 87 | 20 | 44 | 12 | 104 |
+| 90d | 2026-06-17 | 4 | 115 | 25 | 62 | 17 | 133 |
+| last180d | 2026-03-19 | 16 | 264 | 30 | 163 | 32 | 334 |
+| 360d | 2025-09-20 | 42 | 544 | 33 | 362 | 58 | 756 |
+| last720d | 2024-09-25 | 93 | 956 | 35 | 811 | 90 | 1381 |
 
 ## Release 资产
 
@@ -115,4 +115,4 @@ hugo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T03:27:14Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T03:28:33Z._
