@@ -4,7 +4,7 @@
 
 The world’s fastest framework for building websites.
 
-![hugo](https://repo.x-cmd.io/hugo.svg)
+[![x-cmd/install — hugo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hugo.svg)](https://x-cmd.com/install/hugo)
 
 ## Install
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.166.0` (2026-09-09)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 89,858 · **Forks**: 8,381 · **Open issues**: 8,245 · **Contributors**: 853
+- **Stars**: 89,861 · **Forks**: 8,380 · **Open issues**: 8,248 · **Contributors**: 853
 
 ## Totals (cumulative)
 
-- **Releases**: 382 · **Merged PRs**: 3539 · **Open PRs**: 22 · **Closed issues**: 8050 · **Open issues**: 195 · **Commits**: 9955
+- **Releases**: 382 · **Merged PRs**: 3541 · **Open PRs**: 23 · **Closed issues**: 8052 · **Open issues**: 196 · **Commits**: 9958
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 50 | 8 | 30 | 6 | 57 |
-| last60d | 2026-07-20 | 2 | 93 | 11 | 46 | 10 | 110 |
-| 90d | 2026-06-20 | 3 | 120 | 13 | 64 | 16 | 139 |
-| last180d | 2026-03-22 | 16 | 267 | 15 | 165 | 31 | 340 |
-| 360d | 2025-09-23 | 42 | 550 | 18 | 362 | 56 | 762 |
-| last720d | 2024-09-28 | 92 | 961 | 20 | 812 | 87 | 1378 |
+| 30d | 2026-08-21 | 1 | 49 | 8 | 30 | 6 | 60 |
+| last60d | 2026-07-22 | 2 | 93 | 12 | 48 | 11 | 113 |
+| 90d | 2026-06-22 | 3 | 122 | 14 | 65 | 17 | 142 |
+| last180d | 2026-03-24 | 15 | 266 | 15 | 166 | 32 | 343 |
+| 360d | 2025-09-25 | 42 | 552 | 19 | 362 | 57 | 765 |
+| last720d | 2024-09-30 | 92 | 958 | 21 | 812 | 88 | 1380 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:17:29Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T03:28:54Z._
