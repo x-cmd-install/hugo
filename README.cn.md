@@ -4,7 +4,7 @@
 
 The world’s fastest framework for building websites.
 
-[![x-cmd/install — hugo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hugo.svg?lang=zh)](https://x-cmd.com/install/hugo)
+[![x-cmd/install — hugo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hugo.svg?lang=zh)](https://x-cmd.com/install/hugo)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install hugo
 
 ## 代码洞察
 
-合计: **194,307** 行代码（覆盖前 5 种语言、共 **1072** 个文件）。
+合计: **194,389** 行代码（覆盖前 5 种语言、共 **1072** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 173,430 | 26,277 | 31,232 | 914 |
+| Go | 173,512 | 26,282 | 31,247 | 914 |
 | Yaml | 5,732 | 30 | 43 | 6 |
 | Html | 4,690 | 0 | 355 | 124 |
 | JavaScript | 4,111 | 368 | 346 | 25 |
@@ -26,11 +26,11 @@ x install hugo
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.8 / 10**
+总评分: **5.6 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 7/18 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 6/23 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ x install hugo
 ## 发布
 
 - **最新版本**: `v0.166.0` (2026-09-09)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 36 个
 
 ## 流行度
 
-- **Star**: 89,898 · **Fork**: 8,384 · **开放 issue**: 8,249 · **贡献者**: 854
+- **Star**: 89,908 · **Fork**: 8,385 · **开放 issue**: 8,250 · **贡献者**: 854
 
 ## 累计统计
 
-- **发布数**: 382 · **已合并 PR**: 3545 · **开放 PR**: 23 · **已关闭 issue**: 8055 · **开放 issue**: 194 · **提交数**: 9964
+- **发布数**: 382 · **已合并 PR**: 3549 · **开放 PR**: 17 · **已关闭 issue**: 8057 · **开放 issue**: 193 · **提交数**: 9970
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 51 | 7 | 32 | 4 | 61 |
-| last60d | 2026-07-24 | 2 | 95 | 12 | 50 | 9 | 101 |
-| 90d | 2026-06-24 | 3 | 124 | 14 | 64 | 15 | 142 |
-| last180d | 2026-03-26 | 15 | 268 | 15 | 168 | 28 | 338 |
-| 360d | 2025-09-27 | 41 | 552 | 19 | 365 | 55 | 752 |
-| last720d | 2024-10-02 | 92 | 961 | 21 | 811 | 86 | 1384 |
+| 30d | 2026-08-24 | 1 | 54 | 6 | 32 | 4 | 67 |
+| last60d | 2026-07-25 | 2 | 96 | 10 | 51 | 9 | 107 |
+| 90d | 2026-06-25 | 3 | 124 | 12 | 65 | 15 | 148 |
+| last180d | 2026-03-27 | 14 | 270 | 13 | 166 | 28 | 344 |
+| 360d | 2025-09-28 | 41 | 554 | 14 | 364 | 55 | 758 |
+| last720d | 2024-10-03 | 92 | 965 | 16 | 812 | 86 | 1390 |
 
 ## Release 资产
 
@@ -115,4 +115,4 @@ hugo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T03:22:57Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T03:24:09Z._

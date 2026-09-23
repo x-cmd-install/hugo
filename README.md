@@ -4,7 +4,7 @@
 
 The world’s fastest framework for building websites.
 
-[![x-cmd/install — hugo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hugo.svg)](https://x-cmd.com/install/hugo)
+[![x-cmd/install — hugo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hugo.svg)](https://x-cmd.com/install/hugo)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install hugo
 
 ## Code insight
 
-Total: **194,307** lines of code across **1072** files in the top 5 languages.
+Total: **194,389** lines of code across **1072** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 173,430 | 26,277 | 31,232 | 914 |
+| Go | 173,512 | 26,282 | 31,247 | 914 |
 | Yaml | 5,732 | 30 | 43 | 6 |
 | Html | 4,690 | 0 | 355 | 124 |
 | JavaScript | 4,111 | 368 | 346 | 25 |
@@ -26,11 +26,11 @@ Total: **194,307** lines of code across **1072** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.8 / 10**
+Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 7/18 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 6/23 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.166.0` (2026-09-09)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 89,898 · **Forks**: 8,384 · **Open issues**: 8,249 · **Contributors**: 854
+- **Stars**: 89,908 · **Forks**: 8,385 · **Open issues**: 8,250 · **Contributors**: 854
 
 ## Totals (cumulative)
 
-- **Releases**: 382 · **Merged PRs**: 3545 · **Open PRs**: 23 · **Closed issues**: 8055 · **Open issues**: 194 · **Commits**: 9964
+- **Releases**: 382 · **Merged PRs**: 3549 · **Open PRs**: 17 · **Closed issues**: 8057 · **Open issues**: 193 · **Commits**: 9970
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 51 | 7 | 32 | 4 | 61 |
-| last60d | 2026-07-24 | 2 | 95 | 12 | 50 | 9 | 101 |
-| 90d | 2026-06-24 | 3 | 124 | 14 | 64 | 15 | 142 |
-| last180d | 2026-03-26 | 15 | 268 | 15 | 168 | 28 | 338 |
-| 360d | 2025-09-27 | 41 | 552 | 19 | 365 | 55 | 752 |
-| last720d | 2024-10-02 | 92 | 961 | 21 | 811 | 86 | 1384 |
+| 30d | 2026-08-24 | 1 | 54 | 6 | 32 | 4 | 67 |
+| last60d | 2026-07-25 | 2 | 96 | 10 | 51 | 9 | 107 |
+| 90d | 2026-06-25 | 3 | 124 | 12 | 65 | 15 | 148 |
+| last180d | 2026-03-27 | 14 | 270 | 13 | 166 | 28 | 344 |
+| 360d | 2025-09-28 | 41 | 554 | 14 | 364 | 55 | 758 |
+| last720d | 2024-10-03 | 92 | 965 | 16 | 812 | 86 | 1390 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:22:56Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:24:08Z._
