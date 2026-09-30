@@ -30,7 +30,7 @@ x install hugo
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/23 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 4/19 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ x install hugo
 ## 发布
 
 - **最新版本**: `v0.167.0` (2026-09-28)
-- **最近提交**: 2026-09-28
+- **最近提交**: 2026-09-29
 - **Release 含资产**: 36 个
 
 ## 流行度
 
-- **Star**: 89,980 · **Fork**: 8,388 · **开放 issue**: 8,256 · **贡献者**: 855
+- **Star**: 89,989 · **Fork**: 8,390 · **开放 issue**: 8,257 · **贡献者**: 855
 
 ## 累计统计
 
-- **发布数**: 383 · **已合并 PR**: 3565 · **开放 PR**: 15 · **已关闭 issue**: 8074 · **开放 issue**: 182 · **提交数**: 9995
+- **发布数**: 383 · **已合并 PR**: 3565 · **开放 PR**: 17 · **已关闭 issue**: 8074 · **开放 issue**: 183 · **提交数**: 9996
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 2 | 62 | 4 | 33 | 4 | 68 |
-| last60d | 2026-07-31 | 3 | 98 | 8 | 56 | 9 | 125 |
-| 90d | 2026-07-01 | 4 | 137 | 10 | 66 | 15 | 160 |
-| last180d | 2026-04-02 | 14 | 279 | 11 | 167 | 26 | 349 |
-| 360d | 2025-10-04 | 41 | 559 | 12 | 372 | 50 | 776 |
-| last720d | 2024-10-09 | 93 | 977 | 14 | 814 | 80 | 1412 |
+| 30d | 2026-08-31 | 2 | 60 | 6 | 30 | 5 | 69 |
+| last60d | 2026-08-01 | 3 | 98 | 10 | 56 | 10 | 126 |
+| 90d | 2026-07-02 | 4 | 137 | 12 | 66 | 16 | 161 |
+| last180d | 2026-04-03 | 14 | 274 | 13 | 164 | 27 | 350 |
+| 360d | 2025-10-05 | 41 | 558 | 14 | 372 | 51 | 777 |
+| last720d | 2024-10-10 | 93 | 976 | 16 | 813 | 81 | 1412 |
 
 ## Release 资产
 
@@ -115,4 +115,4 @@ hugo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T04:18:51Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T04:03:16Z._
