@@ -30,7 +30,7 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 4/19 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.167.0` (2026-09-28)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-06
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 90,046 · **Forks**: 8,388 · **Open issues**: 8,260 · **Contributors**: 855
+- **Stars**: 90,049 · **Forks**: 8,386 · **Open issues**: 8,261 · **Contributors**: 855
 
 ## Totals (cumulative)
 
-- **Releases**: 383 · **Merged PRs**: 3568 · **Open PRs**: 22 · **Closed issues**: 8074 · **Open issues**: 186 · **Commits**: 9999
+- **Releases**: 383 · **Merged PRs**: 3569 · **Open PRs**: 21 · **Closed issues**: 8075 · **Open issues**: 186 · **Commits**: 10000
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 2 | 50 | 11 | 24 | 6 | 50 |
-| last60d | 2026-08-07 | 3 | 97 | 15 | 52 | 11 | 116 |
-| 90d | 2026-07-08 | 3 | 127 | 16 | 63 | 15 | 153 |
-| last180d | 2026-04-09 | 12 | 266 | 18 | 160 | 29 | 344 |
-| 360d | 2025-10-11 | 41 | 557 | 19 | 369 | 53 | 769 |
-| last720d | 2024-10-16 | 92 | 968 | 21 | 802 | 83 | 1394 |
+| 30d | 2026-09-07 | 2 | 45 | 10 | 21 | 7 | 60 |
+| last60d | 2026-08-08 | 3 | 96 | 14 | 51 | 12 | 143 |
+| 90d | 2026-07-09 | 3 | 125 | 15 | 63 | 15 | 187 |
+| last180d | 2026-04-10 | 12 | 267 | 17 | 160 | 30 | 407 |
+| 360d | 2025-10-12 | 41 | 557 | 18 | 368 | 54 | 877 |
+| last720d | 2024-10-17 | 91 | 968 | 20 | 798 | 84 | 1391 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T04:56:33Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T04:23:06Z._
