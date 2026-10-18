@@ -14,7 +14,7 @@ x install hugo
 
 ## Code insight
 
-Total: **196,037** lines of code across **1073** files in the top 5 languages.
+Total: **196,044** lines of code across **1073** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.168.0` (2026-10-13)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-17
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 90,143 · **Forks**: 8,395 · **Open issues**: 8,269 · **Contributors**: 855
+- **Stars**: 90,144 · **Forks**: 8,393 · **Open issues**: 8,272 · **Contributors**: 855
 
 ## Totals (cumulative)
 
-- **Releases**: 384 · **Merged PRs**: 3586 · **Open PRs**: 20 · **Closed issues**: 8085 · **Open issues**: 184 · **Commits**: 10027
+- **Releases**: 384 · **Merged PRs**: 3587 · **Open PRs**: 21 · **Closed issues**: 8086 · **Open issues**: 186 · **Commits**: 10028
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 2 | 43 | 9 | 20 | 5 | 80 |
-| last60d | 2026-08-18 | 3 | 98 | 11 | 51 | 10 | 163 |
-| 90d | 2026-07-19 | 4 | 139 | 13 | 67 | 15 | 220 |
-| last180d | 2026-04-20 | 13 | 266 | 16 | 155 | 30 | 413 |
-| 360d | 2025-10-22 | 39 | 560 | 17 | 359 | 54 | 886 |
-| last720d | 2024-10-27 | 88 | 975 | 19 | 791 | 84 | 1403 |
+| 30d | 2026-09-18 | 2 | 41 | 10 | 20 | 7 | 57 |
+| last60d | 2026-08-19 | 3 | 97 | 12 | 52 | 12 | 157 |
+| 90d | 2026-07-20 | 4 | 140 | 14 | 68 | 16 | 209 |
+| last180d | 2026-04-21 | 13 | 264 | 17 | 156 | 32 | 392 |
+| 360d | 2025-10-23 | 38 | 560 | 18 | 359 | 56 | 879 |
+| last720d | 2024-10-28 | 88 | 976 | 20 | 791 | 86 | 1403 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T03:02:53Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T03:04:48Z._
