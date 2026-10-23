@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.168.0` (2026-10-13)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 90,199 · **Forks**: 8,396 · **Open issues**: 8,275 · **Contributors**: 855
+- **Stars**: 90,207 · **Forks**: 8,396 · **Open issues**: 8,276 · **Contributors**: 855
 
 ## Totals (cumulative)
 
-- **Releases**: 384 · **Merged PRs**: 3593 · **Open PRs**: 24 · **Closed issues**: 8090 · **Open issues**: 185 · **Commits**: 10035
+- **Releases**: 384 · **Merged PRs**: 3596 · **Open PRs**: 19 · **Closed issues**: 8090 · **Open issues**: 186 · **Commits**: 10038
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 41 | 13 | 20 | 6 | 68 |
-| last60d | 2026-08-23 | 3 | 98 | 14 | 53 | 10 | 168 |
-| 90d | 2026-07-24 | 4 | 142 | 17 | 71 | 15 | 220 |
-| last180d | 2026-04-25 | 13 | 259 | 20 | 154 | 29 | 403 |
-| 360d | 2025-10-27 | 37 | 559 | 21 | 358 | 55 | 890 |
-| last720d | 2024-11-01 | 88 | 979 | 23 | 792 | 83 | 1409 |
+| 30d | 2026-09-23 | 2 | 40 | 8 | 19 | 7 | 70 |
+| last60d | 2026-08-24 | 3 | 101 | 9 | 52 | 11 | 170 |
+| 90d | 2026-07-25 | 4 | 143 | 12 | 71 | 16 | 222 |
+| last180d | 2026-04-26 | 13 | 261 | 15 | 154 | 30 | 405 |
+| 360d | 2025-10-28 | 37 | 562 | 16 | 358 | 56 | 892 |
+| last720d | 2024-11-02 | 88 | 982 | 18 | 790 | 83 | 1408 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:21:07Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:26:19Z._
