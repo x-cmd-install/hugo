@@ -14,11 +14,11 @@ x install hugo
 
 ## Code insight
 
-Total: **196,451** lines of code across **1075** files in the top 5 languages.
+Total: **196,517** lines of code across **1075** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 175,441 | 26,614 | 31,414 | 919 |
+| Go | 175,507 | 26,617 | 31,424 | 919 |
 | Yaml | 5,758 | 30 | 43 | 6 |
 | Html | 4,687 | 0 | 355 | 122 |
 | JavaScript | 4,116 | 371 | 347 | 25 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.168.0` (2026-10-13)
-- **Last commit**: 2026-10-24
+- **Last commit**: 2026-10-25
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 90,225 · **Forks**: 8,406 · **Open issues**: 8,281 · **Contributors**: 855
+- **Stars**: 90,234 · **Forks**: 8,410 · **Open issues**: 8,281 · **Contributors**: 858
 
 ## Totals (cumulative)
 
-- **Releases**: 384 · **Merged PRs**: 3598 · **Open PRs**: 26 · **Closed issues**: 8091 · **Open issues**: 190 · **Commits**: 10040
+- **Releases**: 384 · **Merged PRs**: 3600 · **Open PRs**: 24 · **Closed issues**: 8093 · **Open issues**: 188 · **Commits**: 10042
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 40 | 14 | 19 | 11 | 53 |
-| last60d | 2026-08-26 | 3 | 102 | 16 | 52 | 15 | 147 |
-| 90d | 2026-07-27 | 4 | 140 | 19 | 72 | 20 | 212 |
-| last180d | 2026-04-28 | 13 | 258 | 22 | 152 | 34 | 397 |
-| 360d | 2025-10-30 | 37 | 564 | 23 | 357 | 60 | 891 |
-| last720d | 2024-11-04 | 88 | 980 | 25 | 785 | 87 | 1406 |
+| 30d | 2026-09-26 | 2 | 37 | 11 | 18 | 9 | 58 |
+| last60d | 2026-08-27 | 3 | 103 | 14 | 53 | 13 | 152 |
+| 90d | 2026-07-28 | 4 | 138 | 17 | 73 | 18 | 217 |
+| last180d | 2026-04-29 | 12 | 257 | 20 | 151 | 32 | 402 |
+| 360d | 2025-10-31 | 37 | 566 | 21 | 359 | 58 | 896 |
+| last720d | 2024-11-05 | 87 | 980 | 23 | 785 | 85 | 1403 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T03:16:02Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T03:16:56Z._
