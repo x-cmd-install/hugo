@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.168.0` (2026-10-13)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-26
 - **Assets in release**: 36
 
 ## Popularity
 
-- **Stars**: 90,234 · **Forks**: 8,410 · **Open issues**: 8,281 · **Contributors**: 858
+- **Stars**: 90,254 · **Forks**: 8,415 · **Open issues**: 8,282 · **Contributors**: 858
 
 ## Totals (cumulative)
 
-- **Releases**: 384 · **Merged PRs**: 3600 · **Open PRs**: 24 · **Closed issues**: 8093 · **Open issues**: 188 · **Commits**: 10042
+- **Releases**: 384 · **Merged PRs**: 3601 · **Open PRs**: 19 · **Closed issues**: 8093 · **Open issues**: 189 · **Commits**: 10044
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 2 | 37 | 11 | 18 | 9 | 58 |
-| last60d | 2026-08-27 | 3 | 103 | 14 | 53 | 13 | 152 |
-| 90d | 2026-07-28 | 4 | 138 | 17 | 73 | 18 | 217 |
-| last180d | 2026-04-29 | 12 | 257 | 20 | 151 | 32 | 402 |
-| 360d | 2025-10-31 | 37 | 566 | 21 | 359 | 58 | 896 |
-| last720d | 2024-11-05 | 87 | 980 | 23 | 785 | 85 | 1403 |
+| 30d | 2026-09-27 | 2 | 37 | 5 | 17 | 10 | 60 |
+| last60d | 2026-08-28 | 3 | 102 | 9 | 53 | 14 | 154 |
+| 90d | 2026-07-29 | 4 | 134 | 12 | 73 | 19 | 219 |
+| last180d | 2026-04-30 | 11 | 258 | 15 | 150 | 33 | 404 |
+| 360d | 2025-11-01 | 37 | 567 | 16 | 359 | 58 | 898 |
+| last720d | 2024-11-06 | 86 | 980 | 18 | 782 | 86 | 1399 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T03:16:56Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T03:46:53Z._
