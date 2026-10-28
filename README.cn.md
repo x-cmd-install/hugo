@@ -14,11 +14,11 @@ x install hugo
 
 ## 代码洞察
 
-合计: **196,517** 行代码（覆盖前 5 种语言、共 **1075** 个文件）。
+合计: **196,913** 行代码（覆盖前 5 种语言、共 **1076** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 175,507 | 26,617 | 31,424 | 919 |
+| Go | 175,903 | 26,668 | 31,473 | 920 |
 | Yaml | 5,758 | 30 | 43 | 6 |
 | Html | 4,687 | 0 | 355 | 122 |
 | JavaScript | 4,116 | 371 | 347 | 25 |
@@ -42,69 +42,69 @@ x install hugo
 
 ## 发布
 
-- **最新版本**: `v0.168.0` (2026-10-13)
-- **最近提交**: 2026-10-26
+- **最新版本**: `v0.169.0` (2026-10-27)
+- **最近提交**: 2026-10-27
 - **Release 含资产**: 36 个
 
 ## 流行度
 
-- **Star**: 90,254 · **Fork**: 8,415 · **开放 issue**: 8,282 · **贡献者**: 858
+- **Star**: 90,268 · **Fork**: 8,419 · **开放 issue**: 8,282 · **贡献者**: 858
 
 ## 累计统计
 
-- **发布数**: 384 · **已合并 PR**: 3601 · **开放 PR**: 19 · **已关闭 issue**: 8093 · **开放 issue**: 189 · **提交数**: 10044
+- **发布数**: 385 · **已合并 PR**: 3604 · **开放 PR**: 22 · **已关闭 issue**: 8094 · **开放 issue**: 188 · **提交数**: 10049
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 37 | 5 | 17 | 10 | 60 |
-| last60d | 2026-08-28 | 3 | 102 | 9 | 53 | 14 | 154 |
-| 90d | 2026-07-29 | 4 | 134 | 12 | 73 | 19 | 219 |
-| last180d | 2026-04-30 | 11 | 258 | 15 | 150 | 33 | 404 |
-| 360d | 2025-11-01 | 37 | 567 | 16 | 359 | 58 | 898 |
-| last720d | 2024-11-06 | 86 | 980 | 18 | 782 | 86 | 1399 |
+| 30d | 2026-09-28 | 3 | 39 | 8 | 18 | 9 | 68 |
+| last60d | 2026-08-29 | 4 | 105 | 12 | 53 | 13 | 162 |
+| 90d | 2026-07-30 | 5 | 137 | 15 | 74 | 18 | 227 |
+| last180d | 2026-05-01 | 12 | 260 | 18 | 151 | 32 | 412 |
+| 360d | 2025-11-02 | 38 | 570 | 19 | 360 | 57 | 906 |
+| last720d | 2024-11-07 | 87 | 982 | 21 | 782 | 85 | 1400 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [hugo_0.168.0_checksums.txt](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_checksums.txt) | 3.6 KiB | `other` |
-| [hugo_0.168.0_darwin-universal.pkg](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_darwin-universal.pkg) | 39.0 MiB | `native/darwin/x64` |
-| [hugo_0.168.0_dragonfly-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_dragonfly-amd64.tar.gz) | 20.0 MiB | `native/linux/x64` |
-| [hugo_0.168.0_freebsd-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_freebsd-amd64.tar.gz) | 20.0 MiB | `native/linux/x64` |
-| [hugo_0.168.0_Linux-64bit.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_Linux-64bit.tar.gz) | 20.1 MiB | `native/unknown` |
-| [hugo_0.168.0_linux-amd64.deb](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_linux-amd64.deb) | 20.9 MiB | `native/linux/x64` |
-| [hugo_0.168.0_linux-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_linux-amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
-| [hugo_0.168.0_linux-arm.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_linux-arm.tar.gz) | 18.7 MiB | `native/linux/arm` |
-| [hugo_0.168.0_linux-arm64.deb](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_linux-arm64.deb) | 19.3 MiB | `native/linux/arm64` |
-| [hugo_0.168.0_linux-arm64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_linux-arm64.tar.gz) | 18.5 MiB | `native/linux/arm64` |
-| [hugo_0.168.0_netbsd-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_netbsd-amd64.tar.gz) | 20.0 MiB | `native/linux/x64` |
-| [hugo_0.168.0_openbsd-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_openbsd-amd64.tar.gz) | 20.0 MiB | `native/linux/x64` |
-| [hugo_0.168.0_solaris-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_solaris-amd64.tar.gz) | 20.0 MiB | `native/linux/x64` |
-| [hugo_0.168.0_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_windows-amd64.zip) | 21.3 MiB | `native/win/x64` |
-| [hugo_0.168.0_windows-arm64.zip](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_0.168.0_windows-arm64.zip) | 19.6 MiB | `native/win/arm64` |
-| [hugo_extended_0.168.0_darwin-universal.pkg](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_0.168.0_darwin-universal.pkg) | 40.4 MiB | `native/darwin/x64` |
-| [hugo_extended_0.168.0_Linux-64bit.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_0.168.0_Linux-64bit.tar.gz) | 20.9 MiB | `native/unknown` |
-| [hugo_extended_0.168.0_linux-amd64.deb](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_0.168.0_linux-amd64.deb) | 21.7 MiB | `native/linux/x64` |
-| [hugo_extended_0.168.0_linux-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_0.168.0_linux-amd64.tar.gz) | 20.9 MiB | `native/linux/x64` |
-| [hugo_extended_0.168.0_linux-arm64.deb](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_0.168.0_linux-arm64.deb) | 20.0 MiB | `native/linux/arm64` |
-| [hugo_extended_0.168.0_linux-arm64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_0.168.0_linux-arm64.tar.gz) | 19.2 MiB | `native/linux/arm64` |
-| [hugo_extended_0.168.0_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_0.168.0_windows-amd64.zip) | 22.5 MiB | `native/win/x64` |
-| [hugo_extended_withdeploy_0.168.0_darwin-universal.pkg](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_withdeploy_0.168.0_darwin-universal.pkg) | 56.9 MiB | `native/darwin/x64` |
-| [hugo_extended_withdeploy_0.168.0_Linux-64bit.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_withdeploy_0.168.0_Linux-64bit.tar.gz) | 29.4 MiB | `native/unknown` |
-| [hugo_extended_withdeploy_0.168.0_linux-amd64.deb](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_withdeploy_0.168.0_linux-amd64.deb) | 30.7 MiB | `native/linux/x64` |
-| [hugo_extended_withdeploy_0.168.0_linux-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_withdeploy_0.168.0_linux-amd64.tar.gz) | 29.4 MiB | `native/linux/x64` |
-| [hugo_extended_withdeploy_0.168.0_linux-arm64.deb](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_withdeploy_0.168.0_linux-arm64.deb) | 28.1 MiB | `native/linux/arm64` |
-| [hugo_extended_withdeploy_0.168.0_linux-arm64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_withdeploy_0.168.0_linux-arm64.tar.gz) | 27.0 MiB | `native/linux/arm64` |
-| [hugo_extended_withdeploy_0.168.0_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_extended_withdeploy_0.168.0_windows-amd64.zip) | 31.7 MiB | `native/win/x64` |
-| [hugo_withdeploy_0.168.0_darwin-universal.pkg](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_withdeploy_0.168.0_darwin-universal.pkg) | 55.5 MiB | `native/darwin/x64` |
-| [hugo_withdeploy_0.168.0_Linux-64bit.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_withdeploy_0.168.0_Linux-64bit.tar.gz) | 28.7 MiB | `native/unknown` |
-| [hugo_withdeploy_0.168.0_linux-amd64.deb](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_withdeploy_0.168.0_linux-amd64.deb) | 29.9 MiB | `native/linux/x64` |
-| [hugo_withdeploy_0.168.0_linux-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_withdeploy_0.168.0_linux-amd64.tar.gz) | 28.7 MiB | `native/linux/x64` |
-| [hugo_withdeploy_0.168.0_linux-arm64.deb](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_withdeploy_0.168.0_linux-arm64.deb) | 27.4 MiB | `native/linux/arm64` |
-| [hugo_withdeploy_0.168.0_linux-arm64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_withdeploy_0.168.0_linux-arm64.tar.gz) | 26.3 MiB | `native/linux/arm64` |
-| [hugo_withdeploy_0.168.0_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.168.0/hugo_withdeploy_0.168.0_windows-amd64.zip) | 30.4 MiB | `native/win/x64` |
+| [hugo_0.169.0_checksums.txt](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_checksums.txt) | 3.6 KiB | `other` |
+| [hugo_0.169.0_darwin-universal.pkg](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_darwin-universal.pkg) | 39.1 MiB | `native/darwin/x64` |
+| [hugo_0.169.0_dragonfly-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_dragonfly-amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
+| [hugo_0.169.0_freebsd-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_freebsd-amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
+| [hugo_0.169.0_Linux-64bit.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_Linux-64bit.tar.gz) | 20.1 MiB | `native/unknown` |
+| [hugo_0.169.0_linux-amd64.deb](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_linux-amd64.deb) | 21.0 MiB | `native/linux/x64` |
+| [hugo_0.169.0_linux-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_linux-amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
+| [hugo_0.169.0_linux-arm.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_linux-arm.tar.gz) | 18.8 MiB | `native/linux/arm` |
+| [hugo_0.169.0_linux-arm64.deb](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_linux-arm64.deb) | 19.4 MiB | `native/linux/arm64` |
+| [hugo_0.169.0_linux-arm64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_linux-arm64.tar.gz) | 18.6 MiB | `native/linux/arm64` |
+| [hugo_0.169.0_netbsd-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_netbsd-amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
+| [hugo_0.169.0_openbsd-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_openbsd-amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
+| [hugo_0.169.0_solaris-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_solaris-amd64.tar.gz) | 20.1 MiB | `native/linux/x64` |
+| [hugo_0.169.0_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_windows-amd64.zip) | 21.4 MiB | `native/win/x64` |
+| [hugo_0.169.0_windows-arm64.zip](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_0.169.0_windows-arm64.zip) | 19.6 MiB | `native/win/arm64` |
+| [hugo_extended_0.169.0_darwin-universal.pkg](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_0.169.0_darwin-universal.pkg) | 40.5 MiB | `native/darwin/x64` |
+| [hugo_extended_0.169.0_Linux-64bit.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_0.169.0_Linux-64bit.tar.gz) | 20.9 MiB | `native/unknown` |
+| [hugo_extended_0.169.0_linux-amd64.deb](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_0.169.0_linux-amd64.deb) | 21.7 MiB | `native/linux/x64` |
+| [hugo_extended_0.169.0_linux-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_0.169.0_linux-amd64.tar.gz) | 20.9 MiB | `native/linux/x64` |
+| [hugo_extended_0.169.0_linux-arm64.deb](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_0.169.0_linux-arm64.deb) | 20.1 MiB | `native/linux/arm64` |
+| [hugo_extended_0.169.0_linux-arm64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_0.169.0_linux-arm64.tar.gz) | 19.3 MiB | `native/linux/arm64` |
+| [hugo_extended_0.169.0_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_0.169.0_windows-amd64.zip) | 22.5 MiB | `native/win/x64` |
+| [hugo_extended_withdeploy_0.169.0_darwin-universal.pkg](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_withdeploy_0.169.0_darwin-universal.pkg) | 57.0 MiB | `native/darwin/x64` |
+| [hugo_extended_withdeploy_0.169.0_Linux-64bit.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_withdeploy_0.169.0_Linux-64bit.tar.gz) | 29.5 MiB | `native/unknown` |
+| [hugo_extended_withdeploy_0.169.0_linux-amd64.deb](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_withdeploy_0.169.0_linux-amd64.deb) | 30.8 MiB | `native/linux/x64` |
+| [hugo_extended_withdeploy_0.169.0_linux-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_withdeploy_0.169.0_linux-amd64.tar.gz) | 29.5 MiB | `native/linux/x64` |
+| [hugo_extended_withdeploy_0.169.0_linux-arm64.deb](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_withdeploy_0.169.0_linux-arm64.deb) | 28.2 MiB | `native/linux/arm64` |
+| [hugo_extended_withdeploy_0.169.0_linux-arm64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_withdeploy_0.169.0_linux-arm64.tar.gz) | 27.0 MiB | `native/linux/arm64` |
+| [hugo_extended_withdeploy_0.169.0_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_extended_withdeploy_0.169.0_windows-amd64.zip) | 31.7 MiB | `native/win/x64` |
+| [hugo_withdeploy_0.169.0_darwin-universal.pkg](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_withdeploy_0.169.0_darwin-universal.pkg) | 55.6 MiB | `native/darwin/x64` |
+| [hugo_withdeploy_0.169.0_Linux-64bit.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_withdeploy_0.169.0_Linux-64bit.tar.gz) | 28.7 MiB | `native/unknown` |
+| [hugo_withdeploy_0.169.0_linux-amd64.deb](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_withdeploy_0.169.0_linux-amd64.deb) | 30.0 MiB | `native/linux/x64` |
+| [hugo_withdeploy_0.169.0_linux-amd64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_withdeploy_0.169.0_linux-amd64.tar.gz) | 28.7 MiB | `native/linux/x64` |
+| [hugo_withdeploy_0.169.0_linux-arm64.deb](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_withdeploy_0.169.0_linux-arm64.deb) | 27.4 MiB | `native/linux/arm64` |
+| [hugo_withdeploy_0.169.0_linux-arm64.tar.gz](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_withdeploy_0.169.0_linux-arm64.tar.gz) | 26.3 MiB | `native/linux/arm64` |
+| [hugo_withdeploy_0.169.0_windows-amd64.zip](https://github.com/gohugoio/hugo/releases/download/v0.169.0/hugo_withdeploy_0.169.0_windows-amd64.zip) | 30.5 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -115,4 +115,4 @@ hugo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T03:46:56Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T04:02:48Z._
