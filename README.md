@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 90,409 · **Forks**: 8,443 · **Open issues**: 8,298 · **Contributors**: 859
+- **Stars**: 90,419 · **Forks**: 8,445 · **Open issues**: 8,300 · **Contributors**: 859
 
 ## Totals (cumulative)
 
-- **Releases**: 385 · **Merged PRs**: 3621 · **Open PRs**: 29 · **Closed issues**: 8118 · **Open issues**: 180 · **Commits**: 10072
+- **Releases**: 385 · **Merged PRs**: 3621 · **Open PRs**: 29 · **Closed issues**: 8119 · **Open issues**: 181 · **Commits**: 10072
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 44 | 12 | 25 | 11 | 69 |
-| last60d | 2026-09-09 | 4 | 89 | 18 | 49 | 16 | 156 |
-| 90d | 2026-08-10 | 5 | 145 | 22 | 78 | 21 | 234 |
-| last180d | 2026-05-12 | 12 | 269 | 25 | 154 | 31 | 414 |
-| 360d | 2025-11-13 | 38 | 571 | 25 | 364 | 59 | 899 |
-| last720d | 2024-11-18 | 87 | 976 | 28 | 778 | 88 | 1400 |
+| 30d | 2026-10-10 | 2 | 43 | 12 | 24 | 12 | 69 |
+| last60d | 2026-09-10 | 3 | 88 | 18 | 46 | 17 | 156 |
+| 90d | 2026-08-11 | 5 | 143 | 22 | 78 | 23 | 234 |
+| last180d | 2026-05-13 | 12 | 266 | 25 | 151 | 33 | 414 |
+| 360d | 2025-11-14 | 38 | 571 | 25 | 363 | 61 | 899 |
+| last720d | 2024-11-19 | 85 | 976 | 28 | 777 | 90 | 1388 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T04:30:53Z._
+_Snapshot: `data/card/261109.yml` · 2026-11-09T04:43:10Z._
