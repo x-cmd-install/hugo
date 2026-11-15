@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2026-11-13T14:17:19Z",
-  "updated_at": "2026-11-13T16:36:34Z",
+  "updated_at": "2026-11-14T14:10:12Z",
   "published_at": "2026-11-13T16:09:01Z",
   "assets": [
     {
@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2555,
       "digest": "sha256:3d898c1d4e7fe726da26c1741421ac9adc78b35b18691cbaf1b1a1f930aab447",
-      "download_count": 375,
+      "download_count": 849,
       "created_at": "2026-11-13T14:47:11Z",
       "updated_at": "2026-11-13T14:47:12Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 41301923,
       "digest": "sha256:b9dfc437df19dfd44720caf2e0ba7f9ca5c2e61164f2f4c53456f74d6fa28d22",
-      "download_count": 58,
+      "download_count": 134,
       "created_at": "2026-11-13T14:47:08Z",
       "updated_at": "2026-11-13T14:47:10Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_darwin-universal.pkg"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 21213855,
       "digest": "sha256:2d676dd186025206b0fc4cd64d30b9d56eab4149565fd0c69360c431d9ef2b94",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-13T14:47:07Z",
       "updated_at": "2026-11-13T14:47:08Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_dragonfly-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 21228759,
       "digest": "sha256:9e8c732243162bb9318acebf72ac3863d36fe6e477e3f922f0827d4ecd227332",
-      "download_count": 10,
+      "download_count": 15,
       "created_at": "2026-11-13T14:47:07Z",
       "updated_at": "2026-11-13T14:47:08Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_freebsd-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 21282141,
       "digest": "sha256:0930754ec22ad2dd1a252f8c31a5e57faccc9d15f1c3d381ddafcb96eeb8aef0",
-      "download_count": 52,
+      "download_count": 273,
       "created_at": "2026-11-13T14:47:05Z",
       "updated_at": "2026-11-13T14:47:07Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_Linux-64bit.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 22190440,
       "digest": "sha256:f9708cd2eee28504a0c5b488ddb8e8b49008bd7e99862bccfa76bbe50809d3ee",
-      "download_count": 75,
+      "download_count": 180,
       "created_at": "2026-11-13T14:47:10Z",
       "updated_at": "2026-11-13T14:47:11Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_linux-amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 21282141,
       "digest": "sha256:0930754ec22ad2dd1a252f8c31a5e57faccc9d15f1c3d381ddafcb96eeb8aef0",
-      "download_count": 482,
+      "download_count": 1590,
       "created_at": "2026-11-13T14:47:05Z",
       "updated_at": "2026-11-13T14:47:07Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_linux-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 19834540,
       "digest": "sha256:e03e0d0928cd4a8db7b6e6e7327cd8f033c8344803bd34a8297364706962544a",
-      "download_count": 11,
+      "download_count": 19,
       "created_at": "2026-11-13T14:47:07Z",
       "updated_at": "2026-11-13T14:47:08Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_linux-arm.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 20489266,
       "digest": "sha256:c4f42780c3bd58873b85b59f8dd67f590b05d16c3dac6a942cf2941a7b0f7251",
-      "download_count": 18,
+      "download_count": 31,
       "created_at": "2026-11-13T14:47:10Z",
       "updated_at": "2026-11-13T14:47:11Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_linux-arm64.deb"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 19639913,
       "digest": "sha256:4ec3acd12ac17dbffb34fa453d3630dc0926a2314c8cd4964a550cfa9a4dbc73",
-      "download_count": 25,
+      "download_count": 79,
       "created_at": "2026-11-13T14:47:05Z",
       "updated_at": "2026-11-13T14:47:07Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_linux-arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 21213561,
       "digest": "sha256:40f50e2580ef5c7dff8d8fcf8cde8f432419383e34a33ab679c44882feb0a127",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-11-13T14:47:07Z",
       "updated_at": "2026-11-13T14:47:08Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_netbsd-amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 21228665,
       "digest": "sha256:95a4a4a96d8c812f8c8220a5f7103785b19af450c4d7ef2d0e72e3e47ddf08ad",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-13T14:47:07Z",
       "updated_at": "2026-11-13T14:47:08Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_openbsd-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 21230104,
       "digest": "sha256:efc29c537e57d1d613bcab0a8ba653300d2f9bcc3c3cfd70337ad4aca428d5a1",
-      "download_count": 8,
+      "download_count": 11,
       "created_at": "2026-11-13T14:47:07Z",
       "updated_at": "2026-11-13T14:47:08Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_solaris-amd64.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 22563601,
       "digest": "sha256:56c2bc95f3fc0b6be060f0a4a23a0287fb3954c6595f6f170b49330366083df5",
-      "download_count": 170,
+      "download_count": 371,
       "created_at": "2026-11-13T14:47:09Z",
       "updated_at": "2026-11-13T14:47:10Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_windows-amd64.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 20680417,
       "digest": "sha256:98dc85253cf260713a38121d4521af5c3657291950f438906b386543c9040dea",
-      "download_count": 26,
+      "download_count": 47,
       "created_at": "2026-11-13T14:47:10Z",
       "updated_at": "2026-11-13T14:47:11Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_0.170.0_windows-arm64.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 21282141,
       "digest": "sha256:0930754ec22ad2dd1a252f8c31a5e57faccc9d15f1c3d381ddafcb96eeb8aef0",
-      "download_count": 99,
+      "download_count": 833,
       "created_at": "2026-11-13T14:47:05Z",
       "updated_at": "2026-11-13T14:47:07Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_extended_0.170.0_Linux-64bit.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 22190440,
       "digest": "sha256:f9708cd2eee28504a0c5b488ddb8e8b49008bd7e99862bccfa76bbe50809d3ee",
-      "download_count": 237,
+      "download_count": 552,
       "created_at": "2026-11-13T14:47:10Z",
       "updated_at": "2026-11-13T14:47:11Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_extended_0.170.0_linux-amd64.deb"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 21282141,
       "digest": "sha256:0930754ec22ad2dd1a252f8c31a5e57faccc9d15f1c3d381ddafcb96eeb8aef0",
-      "download_count": 776,
+      "download_count": 3768,
       "created_at": "2026-11-13T14:47:05Z",
       "updated_at": "2026-11-13T14:47:07Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_extended_0.170.0_linux-amd64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 19639913,
       "digest": "sha256:4ec3acd12ac17dbffb34fa453d3630dc0926a2314c8cd4964a550cfa9a4dbc73",
-      "download_count": 49,
+      "download_count": 105,
       "created_at": "2026-11-13T14:47:05Z",
       "updated_at": "2026-11-13T14:47:07Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_extended_0.170.0_linux-arm64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 22563601,
       "digest": "sha256:56c2bc95f3fc0b6be060f0a4a23a0287fb3954c6595f6f170b49330366083df5",
-      "download_count": 369,
+      "download_count": 1034,
       "created_at": "2026-11-13T14:47:09Z",
       "updated_at": "2026-11-13T14:47:09Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_extended_0.170.0_windows-amd64.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 58635493,
       "digest": "sha256:6b239ca56183d3da8bc84a5be08928b0a32e863fac22d1980fb5ec77c91454ed",
-      "download_count": 12,
+      "download_count": 20,
       "created_at": "2026-11-13T14:47:08Z",
       "updated_at": "2026-11-13T14:47:10Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_withdeploy_0.170.0_darwin-universal.pkg"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 31604826,
       "digest": "sha256:bde4da171530d2cf71daeb0809fdefbc01f3b77b49b1524b73974d506e19577f",
-      "download_count": 14,
+      "download_count": 21,
       "created_at": "2026-11-13T14:47:11Z",
       "updated_at": "2026-11-13T14:47:12Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_withdeploy_0.170.0_linux-amd64.deb"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 30260311,
       "digest": "sha256:e2bb12c3b91aaa5cba2ee638dccf2f02d5fae0a87fb4fdc44d38788ddadd0299",
-      "download_count": 22,
+      "download_count": 53,
       "created_at": "2026-11-13T14:47:08Z",
       "updated_at": "2026-11-13T14:47:10Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_withdeploy_0.170.0_linux-amd64.tar.gz"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 28897146,
       "digest": "sha256:63450e8ab49673f3234ba55c79be1410f3212af2389c70d1ae7b2cd517cf74ad",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-13T14:47:11Z",
       "updated_at": "2026-11-13T14:47:12Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_withdeploy_0.170.0_linux-arm64.deb"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 27738683,
       "digest": "sha256:d78e3bf170fbd9a2393bd052a57fffaf6b9d7e6a7b8004c4452cbc99bdc2dd64",
-      "download_count": 10,
+      "download_count": 17,
       "created_at": "2026-11-13T14:47:08Z",
       "updated_at": "2026-11-13T14:47:10Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_withdeploy_0.170.0_linux-arm64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 32130503,
       "digest": "sha256:3c15b205a9905b406478cfac886768bc70887bfca10edf1cff1db9d91bc201ee",
-      "download_count": 29,
+      "download_count": 59,
       "created_at": "2026-11-13T14:47:10Z",
       "updated_at": "2026-11-13T14:47:11Z",
       "browser_download_url": "https://github.com/gohugoio/hugo/releases/download/v0.170.0/hugo_withdeploy_0.170.0_windows-amd64.zip"
@@ -975,16 +975,16 @@
   ],
   "tarball_url": "https://api.github.com/repos/gohugoio/hugo/tarball/v0.170.0",
   "zipball_url": "https://api.github.com/repos/gohugoio/hugo/zipball/v0.170.0",
-  "body": "The big change in this release is that **the _extended_ edition of Hugo is gone**. LibSass has been deprecated for a long time, and it was the main reason we needed a CGO-enabled extended build. There is now only one Hugo binary, and apart from LibSass it has all the features the extended build had.\r\n\r\n## Notes\r\n\r\n* Setting `transpiler` to `libsass` in [`css.Sass`](https://gohugo.io/functions/css/sass/) now returns an error. [Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass) is now the default and the only transpiler, so you need to [install it](https://gohugo.io/functions/css/sass/#installation-overview) if you use Sass.\r\n* We no longer publish `hugo_extended_*` archives. To avoid breaking existing CI setups, we publish aliases for the most downloaded extended archives (e.g. `hugo_extended_<version>_linux-amd64.tar.gz`, `hugo_extended_<version>_Linux-64bit.tar.gz`, the `linux-amd64.deb`, `linux-arm64.tar.gz` and `windows-amd64.zip`), but you should update your scripts to use the standard archives. The `extended_withdeploy` builds are also removed. See [Installation](https://gohugo.io/installation/).\r\n* [`hugo.IsExtended`](https://gohugo.io/functions/hugo/isextended/) now always returns `false`, and the module config setting `hugoVersion.extended` is deprecated and has no effect.\r\n* Command-line flags (e.g. `--buildDrafts`) now override OS [environment variables](https://gohugo.io/configuration/introduction/#environment-variables) (e.g. `HUGO_BUILDDRAFTS`). This also fixes `HUGO_ENVIRONMENT=qa hugo build -e staging` loading the `staging` config but reporting `qa` in `hugo.Environment`.\r\n* [`strings.Truncate`](https://gohugo.io/functions/strings/truncate/) has been rewritten on top of a proper HTML scanner. It now handles comments, void elements, quoted attributes with `>` and raw text elements such as `script` correctly, and it's faster and allocates less. On a curious note, the old version was implemented by [Mathias Biilmann](https://github.com/biilmann), the Netlify CEO.\r\n* `time.Time` values now keep their named time zone, and [`eq`](https://gohugo.io/functions/compare/eq/), `ne`, `in` and `uniq` compare `time.Time` values by instant.\r\n* [`resources.Match`](https://gohugo.io/functions/resources/match/) and friends now preserve the directory casing in the matched paths, so e.g. `resources.Match \"gallery/Travel/Iceland/*\"` now works on case-sensitive file systems.\r\n* Syncing of static files is much faster for big unchanged files, as we now skip the content check for files with the same size and modification time.\r\n* Several fixes and hardening of the WASM based image codecs (AVIF crash at `encoderSpeed` 6 and lower, recovering from broken WASM instances in the server).\r\n\r\n## Security\r\n\r\n### Hugo\r\n\r\n* [Passthrough](https://gohugo.io/configuration/markup/#passthrough) content is now HTML escaped when no passthrough render hook is set, unless `markup.goldmark.renderer.unsafe` is enabled. Before this, e.g. `\\(<img src=x onerror=alert(1)>\\)` in a content file emitted raw HTML.\r\n* The `wrapperClass` option, settable from the [`highlight`](https://gohugo.io/shortcodes/highlight/) shortcode and [`transform.Highlight`](https://gohugo.io/functions/transform/highlight/), is now escaped.\r\n* [Vendored](https://gohugo.io/hugo-modules/use-modules/#vendor) module paths are now restricted to the `_vendor` directory (symlinks pointing outside are rejected).\r\n\r\nThanks to @R0X4R for finding and reporting the last two issues.\r\n\r\n### Go\r\n\r\nThis release is built with Go 1.27.4, which [includes 12 security fixes](https://groups.google.com/g/golang-announce/c/iY8TY0wWgbM/m/KsU1KfWgAQAJ). The one most relevant for Hugo is a crash in the `net/http` HTTP/1 server (used by `hugo server`) caused by a race in `MaxBytesReader`. The other 11 are in the `cmd/go` toolchain (cgo flag and linker injection at build time) and mainly matter if you build Hugo from source with untrusted dependencies.\r\n\r\n### Dependencies\r\n\r\n* `golang.org/x/net` v0.62.0 [fixes two issues in the `html` package](https://seclists.org/oss-sec/2026/q4/407): quadratic complexity when coalescing text nodes, and a namespace issue when rendering raw text. Hugo uses this package when collecting HTML elements for `hugo_stats.json` and in the AsciiDoc integration.\r\n* `github.com/go-jose/go-jose/v4` v4.1.6 (indirect dependency) contains a number of [security fixes](https://github.com/go-jose/go-jose/releases), among them GHSA-mgcc-cww5-fp2q (RSA modulus size limit when parsing JWKs) and a stack depth limit in the JSON decoder.\r\n\r\n## Changes\r\n\r\n* Remove libsass and the extended build tag c2f9cb82 @bep #15405 \r\n* Remove the extended build from the release 0b66ebd4 @bep #15502 \r\n* Fix typo in AGENTS.md 588241bf @pei711 \r\n* tpl/collections: Fix sort when some items lack the sort key a8a8e978 @bep #15523 \r\n* warpc, commands: Fix Close of image dispatchers, recover in fast render 3c2f52d4 @bep #15522 \r\n* warpc: Fix AVIF encode crashing at encoderSpeed 6 and lower 47425654 @bep #15522 \r\n* Fix misc layout lookup issues f3875ec3 @bep #15538 #15540 \r\n* tpl/collections: Fix merge of maps with concrete element types b76fde2f @bep #15499 \r\n* tpl/tplimpl: Fix shortcode layout lookup in non-default output formats 87e6e14c @jmooring #15536 \r\n* langs/i18n: Fix project translations losing to module translations fa5a3d48 @jmooring #15518 \r\n* Adjust Exif test to fix now failing deprecation tests 471d0fb3 @bep \r\n* markup/goldmark: Escape passthrough content when no render hook is set e2f66a23 @raghu45345 \r\n* tpl: Compare time.Time values by instant in eq, ne, in and uniq 3519196b @jmooring #15577 \r\n* Skip content check for static files with the same size and modification time afb2d9ac @bep #15572 \r\n* commands: Rebuild assets also mounted as static b755c9d5 @xndvaz #15567 \r\n* hugolib: Keep npm installs in their test directory 2056ed69 @xndvaz #15568 \r\n* Upgrade to Go 1.27.4 bca2cec8 @bep \r\n* common/htime: Preserve location of time.Time values 59224216 @jmooring #8895 #15565 \r\n* markup/highlight: Escape wrapperClass bdde5aa5 @bep \r\n* modules: Restrict vendor module paths to the _vendor directory d41a8a19 @bep \r\n* hugofs: Preserve directory casing in resource matches 5b44cfce @xndvaz #7686 #10112 \r\n* config: Make command-line flags override OS environment variables d5ba1aaa @bep #15549 #15550 \r\n* tpl/resources: Accept []any of resources in Concat e6a470cb @jmooring #15546 \r\n* warpc: Keep function names in WASM binaries, set WebP stack size 1a014e53 @bep #15522 \r\n* warpc, commands: Recover from broken WASM instances in the server 5086d5fc @bep #15522 \r\n* resources: Resolve remote media type from Hugo's media types 3a1985b1 @AnaTejeda1 #11601 \r\n* langs/i18n: Add failing test for project translation precedence 2b0e1e1e @jmooring #15518 \r\n* ci: Upgrade setup-ruby and Ruby 185a609e @jmooring \r\n* tpl/strings: Rewrite truncate using the hhtml scanner 6b0c89c3 @bep #15505 #15509 \r\n\r\n## Dependency Updates\r\n\r\n* build(deps): bump golang.org/x/image from 0.47.0 to 0.48.0 29bcc86d @dependabot[bot] \r\n* build(deps): bump golang.org/x/text from 0.43.0 to 0.44.0 4f8354eb @dependabot[bot] \r\n* build(deps): bump github.com/spf13/pflag from 1.0.10 to 1.1.0 6aebad49 @dependabot[bot] \r\n* build(deps): bump github.com/getkin/kin-openapi from 0.152.0 to 0.153.0 88468544 @dependabot[bot] \r\n* build(deps): bump github.com/bits-and-blooms/bitset 0586add2 @dependabot[bot] \r\n* build(deps): bump github.com/tdewolff/minify/v2 from 2.24.24 to 2.24.25 45dfa4e8 @dependabot[bot] \r\n* build(deps): bump github.com/yuin/goldmark from 1.8.6 to 1.8.7 d2010fcc @dependabot[bot] \r\n* deps: Upgrade github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.5.0 => v0.6.0 2d6cf3a8 @bep \r\n* deps: Upgrade github.com/bep/imagemeta v1.1.0 => v1.1.1 b6fa2fe5 @bep \r\n* build(deps): bump golang.org/x/net from 0.61.0 to 0.62.0 fe34313e @dependabot[bot] \r\n* build(deps): bump github.com/tdewolff/minify/v2 from 2.24.22 to 2.24.24 7ff95e04 @dependabot[bot] \r\n* build(deps): bump github.com/gobwas/glob from 1.0.0 to 1.1.0 98ab2ff7 @dependabot[bot] \r\n* build(deps): bump github.com/go-jose/go-jose/v4 from 4.1.4 to 4.1.6 a1668da3 @dependabot[bot] \r\n\r\n## Documentation\r\n\r\n* Update README.md 8502b600 @jmooring #15512 \r\n\r\n\r\n\r\n",
+  "body": "The big change in this release is that **the _extended_ edition of Hugo is gone**. LibSass has been deprecated for a long time, and it was the only remaining reason we needed a CGO-enabled extended build. There is now only one Hugo binary, and apart from LibSass it has all the features the extended build had.\r\n\r\n## Notes\r\n\r\n* Setting `transpiler` to `libsass` in [`css.Sass`](https://gohugo.io/functions/css/sass/) now returns an error. [Dart Sass](https://gohugo.io/functions/css/sass/#dart-sass) is now the default and the only transpiler, so you need to [install it](https://gohugo.io/functions/css/sass/#installation-overview) if you use Sass.\r\n* We no longer publish `hugo_extended_*` archives. To avoid breaking existing CI setups, we publish aliases for the most downloaded extended archives (e.g. `hugo_extended_<version>_linux-amd64.tar.gz`, `hugo_extended_<version>_Linux-64bit.tar.gz`, the `linux-amd64.deb`, `linux-arm64.tar.gz` and `windows-amd64.zip`), but you should update your scripts to use the standard archives. The `extended_withdeploy` builds are also removed. See [Installation](https://gohugo.io/installation/).\r\n* [`hugo.IsExtended`](https://gohugo.io/functions/hugo/isextended/) now always returns `false`, and the module config setting `hugoVersion.extended` is deprecated and has no effect.\r\n* Command-line flags (e.g. `--buildDrafts`) now override OS [environment variables](https://gohugo.io/configuration/introduction/#environment-variables) (e.g. `HUGO_BUILDDRAFTS`). This also fixes `HUGO_ENVIRONMENT=qa hugo build -e staging` loading the `staging` config but reporting `qa` in `hugo.Environment`.\r\n* [`strings.Truncate`](https://gohugo.io/functions/strings/truncate/) has been rewritten on top of a proper HTML scanner. It now handles comments, void elements, quoted attributes with `>` and raw text elements such as `script` correctly, and it's faster and allocates less. On a curious note, the old version was implemented by [Mathias Biilmann](https://github.com/biilmann), the Netlify CEO.\r\n* `time.Time` values now keep their named time zone, and [`eq`](https://gohugo.io/functions/compare/eq/), `ne`, `in` and `uniq` compare `time.Time` values by instant.\r\n* [`resources.Match`](https://gohugo.io/functions/resources/match/) and friends now preserve the directory casing in the matched paths, so e.g. `resources.Match \"gallery/Travel/Iceland/*\"` now works on case-sensitive file systems.\r\n* Syncing of static files is much faster for big unchanged files, as we now skip the content check for files with the same size and modification time.\r\n* Several fixes and hardening of the WASM based image codecs (AVIF crash at `encoderSpeed` 6 and lower, recovering from broken WASM instances in the server).\r\n\r\n## Security\r\n\r\n### Hugo\r\n\r\n* [Passthrough](https://gohugo.io/configuration/markup/#passthrough) content is now HTML escaped when no passthrough render hook is set, unless `markup.goldmark.renderer.unsafe` is enabled. Before this, e.g. `\\(<img src=x onerror=alert(1)>\\)` in a content file emitted raw HTML.\r\n* The `wrapperClass` option, settable from the [`highlight`](https://gohugo.io/shortcodes/highlight/) shortcode and [`transform.Highlight`](https://gohugo.io/functions/transform/highlight/), is now escaped.\r\n* [Vendored](https://gohugo.io/hugo-modules/use-modules/#vendor) module paths are now restricted to the `_vendor` directory (symlinks pointing outside are rejected).\r\n\r\nThanks to @R0X4R for finding and reporting the last two issues.\r\n\r\n### Go\r\n\r\nThis release is built with Go 1.27.4, which [includes 12 security fixes](https://groups.google.com/g/golang-announce/c/iY8TY0wWgbM/m/KsU1KfWgAQAJ). The one most relevant for Hugo is a crash in the `net/http` HTTP/1 server (used by `hugo server`) caused by a race in `MaxBytesReader`. The other 11 are in the `cmd/go` toolchain (cgo flag and linker injection at build time) and mainly matter if you build Hugo from source with untrusted dependencies.\r\n\r\n### Dependencies\r\n\r\n* `golang.org/x/net` v0.62.0 [fixes two issues in the `html` package](https://seclists.org/oss-sec/2026/q4/407): quadratic complexity when coalescing text nodes, and a namespace issue when rendering raw text. Hugo uses this package when collecting HTML elements for `hugo_stats.json` and in the AsciiDoc integration.\r\n* `github.com/go-jose/go-jose/v4` v4.1.6 (indirect dependency) contains a number of [security fixes](https://github.com/go-jose/go-jose/releases), among them GHSA-mgcc-cww5-fp2q (RSA modulus size limit when parsing JWKs) and a stack depth limit in the JSON decoder.\r\n\r\n## Changes\r\n\r\n* Remove libsass and the extended build tag c2f9cb82 @bep #15405 \r\n* Remove the extended build from the release 0b66ebd4 @bep #15502 \r\n* Fix typo in AGENTS.md 588241bf @pei711 \r\n* tpl/collections: Fix sort when some items lack the sort key a8a8e978 @bep #15523 \r\n* warpc, commands: Fix Close of image dispatchers, recover in fast render 3c2f52d4 @bep #15522 \r\n* warpc: Fix AVIF encode crashing at encoderSpeed 6 and lower 47425654 @bep #15522 \r\n* Fix misc layout lookup issues f3875ec3 @bep #15538 #15540 \r\n* tpl/collections: Fix merge of maps with concrete element types b76fde2f @bep #15499 \r\n* tpl/tplimpl: Fix shortcode layout lookup in non-default output formats 87e6e14c @jmooring #15536 \r\n* langs/i18n: Fix project translations losing to module translations fa5a3d48 @jmooring #15518 \r\n* Adjust Exif test to fix now failing deprecation tests 471d0fb3 @bep \r\n* markup/goldmark: Escape passthrough content when no render hook is set e2f66a23 @raghu45345 \r\n* tpl: Compare time.Time values by instant in eq, ne, in and uniq 3519196b @jmooring #15577 \r\n* Skip content check for static files with the same size and modification time afb2d9ac @bep #15572 \r\n* commands: Rebuild assets also mounted as static b755c9d5 @xndvaz #15567 \r\n* hugolib: Keep npm installs in their test directory 2056ed69 @xndvaz #15568 \r\n* Upgrade to Go 1.27.4 bca2cec8 @bep \r\n* common/htime: Preserve location of time.Time values 59224216 @jmooring #8895 #15565 \r\n* markup/highlight: Escape wrapperClass bdde5aa5 @bep \r\n* modules: Restrict vendor module paths to the _vendor directory d41a8a19 @bep \r\n* hugofs: Preserve directory casing in resource matches 5b44cfce @xndvaz #7686 #10112 \r\n* config: Make command-line flags override OS environment variables d5ba1aaa @bep #15549 #15550 \r\n* tpl/resources: Accept []any of resources in Concat e6a470cb @jmooring #15546 \r\n* warpc: Keep function names in WASM binaries, set WebP stack size 1a014e53 @bep #15522 \r\n* warpc, commands: Recover from broken WASM instances in the server 5086d5fc @bep #15522 \r\n* resources: Resolve remote media type from Hugo's media types 3a1985b1 @AnaTejeda1 #11601 \r\n* langs/i18n: Add failing test for project translation precedence 2b0e1e1e @jmooring #15518 \r\n* ci: Upgrade setup-ruby and Ruby 185a609e @jmooring \r\n* tpl/strings: Rewrite truncate using the hhtml scanner 6b0c89c3 @bep #15505 #15509 \r\n\r\n## Dependency Updates\r\n\r\n* build(deps): bump golang.org/x/image from 0.47.0 to 0.48.0 29bcc86d @dependabot[bot] \r\n* build(deps): bump golang.org/x/text from 0.43.0 to 0.44.0 4f8354eb @dependabot[bot] \r\n* build(deps): bump github.com/spf13/pflag from 1.0.10 to 1.1.0 6aebad49 @dependabot[bot] \r\n* build(deps): bump github.com/getkin/kin-openapi from 0.152.0 to 0.153.0 88468544 @dependabot[bot] \r\n* build(deps): bump github.com/bits-and-blooms/bitset 0586add2 @dependabot[bot] \r\n* build(deps): bump github.com/tdewolff/minify/v2 from 2.24.24 to 2.24.25 45dfa4e8 @dependabot[bot] \r\n* build(deps): bump github.com/yuin/goldmark from 1.8.6 to 1.8.7 d2010fcc @dependabot[bot] \r\n* deps: Upgrade github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.5.0 => v0.6.0 2d6cf3a8 @bep \r\n* deps: Upgrade github.com/bep/imagemeta v1.1.0 => v1.1.1 b6fa2fe5 @bep \r\n* build(deps): bump golang.org/x/net from 0.61.0 to 0.62.0 fe34313e @dependabot[bot] \r\n* build(deps): bump github.com/tdewolff/minify/v2 from 2.24.22 to 2.24.24 7ff95e04 @dependabot[bot] \r\n* build(deps): bump github.com/gobwas/glob from 1.0.0 to 1.1.0 98ab2ff7 @dependabot[bot] \r\n* build(deps): bump github.com/go-jose/go-jose/v4 from 4.1.4 to 4.1.6 a1668da3 @dependabot[bot] \r\n\r\n## Documentation\r\n\r\n* Update README.md 8502b600 @jmooring #15512 \r\n\r\n\r\n\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/gohugoio/hugo/releases/444349529/reactions",
-    "total_count": 15,
-    "+1": 8,
+    "total_count": 20,
+    "+1": 11,
     "-1": 0,
     "laugh": 0,
-    "hooray": 4,
+    "hooray": 5,
     "confused": 0,
-    "heart": 2,
+    "heart": 3,
     "rocket": 1,
     "eyes": 0
   },
