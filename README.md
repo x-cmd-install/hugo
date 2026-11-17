@@ -14,11 +14,11 @@ x install hugo
 
 ## Code insight
 
-Total: **196,897** lines of code across **1070** files in the top 5 languages.
+Total: **196,862** lines of code across **1069** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 176,041 | 26,644 | 31,420 | 914 |
+| Go | 176,006 | 26,631 | 31,412 | 913 |
 | Yaml | 5,600 | 32 | 43 | 6 |
 | Html | 4,687 | 0 | 355 | 122 |
 | JavaScript | 4,116 | 371 | 347 | 25 |
@@ -26,11 +26,11 @@ Total: **196,897** lines of code across **1070** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/23 approved changesets -- score normalized to 1
+- **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.170.0` (2026-11-13)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-16
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 90,480 · **Forks**: 8,475 · **Open issues**: 8,313 · **Contributors**: 862
+- **Stars**: 90,492 · **Forks**: 8,517 · **Open issues**: 8,315 · **Contributors**: 862
 
 ## Totals (cumulative)
 
-- **Releases**: 386 · **Merged PRs**: 3640 · **Open PRs**: 32 · **Closed issues**: 8131 · **Open issues**: 182 · **Commits**: 10095
+- **Releases**: 386 · **Merged PRs**: 3641 · **Open PRs**: 36 · **Closed issues**: 8132 · **Open issues**: 183 · **Commits**: 10097
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 51 | 15 | 28 | 13 | 83 |
-| last60d | 2026-09-17 | 4 | 97 | 21 | 51 | 18 | 161 |
-| 90d | 2026-08-18 | 5 | 152 | 23 | 82 | 23 | 256 |
-| last180d | 2026-05-20 | 13 | 271 | 28 | 154 | 36 | 419 |
-| 360d | 2025-11-21 | 39 | 570 | 28 | 366 | 63 | 903 |
-| last720d | 2024-11-26 | 84 | 992 | 31 | 777 | 92 | 1400 |
+| 30d | 2026-10-18 | 2 | 52 | 19 | 29 | 14 | 85 |
+| last60d | 2026-09-18 | 4 | 95 | 25 | 51 | 19 | 163 |
+| 90d | 2026-08-19 | 5 | 151 | 27 | 83 | 24 | 258 |
+| last180d | 2026-05-21 | 13 | 269 | 32 | 154 | 37 | 421 |
+| 360d | 2025-11-22 | 39 | 571 | 32 | 367 | 64 | 905 |
+| last720d | 2024-11-27 | 84 | 993 | 35 | 776 | 93 | 1402 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for hugo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T04:48:26Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T06:37:09Z._
